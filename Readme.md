@@ -24,20 +24,20 @@ Neste projeto, serão explorados os seguintes tópicos:
 2. **Clonar o repositório**: Clone este repositório em sua máquina local usando o seguinte comando:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/gabrielsouzas/electron.git
    ```
 
 3. **Instalar dependências**: Navegue até o diretório do projeto e instale as dependências usando o npm:
 
    ```bash
-   cd nome-do-repositorio
+   cd electron
    npm install
    ```
 
 4. **Executar o aplicativo**: Após a instalação das dependências, você pode iniciar o aplicativo usando o seguinte comando:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 👤 Autor
